@@ -1,0 +1,13 @@
+package com.BikkadIT.SpringWebMVcFirstAppPractice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringWebMVcFirstAppPracticeApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringWebMVcFirstAppPracticeApplication.class, args);
+	}
+
+}
